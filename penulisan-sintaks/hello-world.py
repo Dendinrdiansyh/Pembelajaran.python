@@ -1,0 +1,1 @@
+print('hello world! saya akan belajar dengan sungguh-sungguh')
