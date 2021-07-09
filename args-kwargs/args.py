@@ -6,4 +6,3 @@ def panggil(*nama):
 
 # daftar nama orang
 panggil("dian", "doni", "syarif", "lucas")
-
